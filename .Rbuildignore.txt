@@ -1,0 +1,13 @@
+^\.Rproj\.user$
+^\.Rhistory$
+^\.RData$
+^\.git$
+^\.github$
+^README\.Rmd$
+^NEWS\.md$
+^\.travis\.yml$
+^appveyor\.yml$
+^cran-comments\.md$
+^vignettes/.*\.Rmd$
+^vignettes/.*\.html$
+^.*\.Rproj$

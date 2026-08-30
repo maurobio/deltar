@@ -1,0 +1,4 @@
+useDynLib(DeltaR, .registration = TRUE)
+importFrom(Rcpp, sourceCpp)
+importFrom(Rcpp, loadModule)
+exportPattern("^[[:alpha:]]+")
